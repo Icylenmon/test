@@ -1,3 +1,0 @@
-dd test
-sff
-fdg
